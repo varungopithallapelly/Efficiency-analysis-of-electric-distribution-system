@@ -1,0 +1,2 @@
+# Efficiency-analysis-of-electric-distribution-system
+Electricity sector regulators are practicing benchmarking of distribution companies to regulate the allowed revenue. The main objective of this study is to evaluate relative efficiencies of each Distribution  utility using DEA and to identify best performing areas . Then identify ways to improve each  area’s performance, if it is not one of the top performing areas. 
